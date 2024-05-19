@@ -1,0 +1,4 @@
+^D:\RESOURCES\HCS_PLAYER\MYWIDGET.H
+"D:\QT\5.13.0\msvc2017_64\bin\moc.exe" "D:\Resources\hcs_player\MyWidget.h" -o ".\GeneratedFiles\moc_MyWidget.cpp"
+^D:\RESOURCES\HCS_PLAYER\MYWIDGET.UI
+"D:\QT\5.13.0\msvc2017_64\bin\uic.exe" -o ".\GeneratedFiles\ui_MyWidget.h" "D:\Resources\hcs_player\MyWidget.ui"

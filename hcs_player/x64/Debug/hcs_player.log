@@ -1,0 +1,10 @@
+﻿  Moc'ing MyWidget.h... 
+  moc_MyWidget.cpp
+  MyWidget.cpp
+  main.cpp
+  player.cpp
+D:\Resources\hcs_player\player.cpp(91,65): warning C4996: 'AVCodecParameters::channels': 被声明为已否决
+D:\Resources\hcs_player\player.cpp(92,71): warning C4996: 'AVCodecParameters::channel_layout': 被声明为已否决
+  video_output.cpp
+  正在生成代码...
+  hcs_player.vcxproj -> D:\Resources\hcs_player\x64\Debug\hcs_player.exe

@@ -1,0 +1,10 @@
+D:\Resources\hcs_player\avframe_queue.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\avframe_queue.obj
+D:\Resources\hcs_player\avpacket_queue.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\avpacket_queue.obj
+D:\Resources\hcs_player\decode_thread.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\decode_thread.obj
+D:\Resources\hcs_player\demux_thread.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\demux_thread.obj
+D:\Resources\hcs_player\GeneratedFiles\moc_MyWidget.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\moc_MyWidget.obj
+D:\Resources\hcs_player\main.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\main.obj
+D:\Resources\hcs_player\MyWidget.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\MyWidget.obj
+D:\Resources\hcs_player\player.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\player.obj
+D:\Resources\hcs_player\video_output.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\video_output.obj
+D:\Resources\hcs_player\audio_output.cpp;D:\Resources\hcs_player\hcs_player\x64\Debug\audio_output.obj
